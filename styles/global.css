@@ -24,3 +24,23 @@ body {
   color: var(--text-color-secondary);
   background-color: var(--background-color);
 }
+
+a {
+  text-decoration: none; /* para tirar o unerline */
+  color: inherit; /* para a cor princiopal do pai de <a> */
+}
+
+a:hover { /* para quando passar o mouse sobre <a> mudar a cor */
+  color: var(--brand-color);
+  text-decoration: underline;
+}
+
+.container { /* para inserir informações/caracteristicas que estarão presentes em todo o projeto */
+  padding-inline: 32px; /* aceita dois valores, um ele considerara para os dois lados e dois um para cada lado */
+  max-width: 1280px;
+  margin-inline: auto; /* para alinhar todo o conteudo no meio da página */
+}
+
+.bg-surface-color { /* para iserir a cor na <div> que esta ao redor do <nav> */
+  background-color: var(--surface-color);
+}

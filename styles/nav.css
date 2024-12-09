@@ -1,0 +1,22 @@
+nav {
+  display: flex;
+  justify-content: space-between; /* para colocar um espaço entre as caixas dentro do <nav> */
+  align-items: center; /* para alinhar os itens no centro do eixo principal */
+ 
+  line-height: 0;
+  padding-block: 20px; /* para inserir o padding tanto em cima, quanto abaixo, de todos os blocos dentro do nav */
+}
+
+nav ul { 
+  list-style: none; /* para tirar os marcadores da frente */
+  display: flex; /* para os elementos ficarem um ao lado do outro */
+  align-items: center; /* para alinhar os itens no centro do eixo principal */
+  gap: 24px; /* é o espaço entre os elementos*/
+  padding-block: 8px;
+}
+
+nav ul li:last-child img {/* para pegar a última imagem dentre as presentes no <li> */
+  width: 40px;
+  height: 40px;
+
+}
