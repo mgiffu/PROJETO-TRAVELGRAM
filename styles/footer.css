@@ -2,6 +2,7 @@ footer {
   display: flex;
   gap: 24px; /* para inserir a distância entre o Termo (filho 2) e Política (filho 3)*/
   padding-block: 24px; /* para inserir a distância acima e abaixo */
+  font: 14px/150% var(--font-family);
 }
 
 footer span:nth-child(1) { /* o nth-child serve para selecionar o filho desejado dentro do footer, o span é apenas para orientação de onde esta esse filho, se existisse um outro elemento antes do span, o primeiro span seria o child 2 e não o 1. */

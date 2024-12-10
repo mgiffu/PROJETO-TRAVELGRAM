@@ -18,6 +18,11 @@ header .container {
   max-width: 384px;
 }
 
+#profile img { /* fixar altora e largura da imagem para que ela não deforme com mudança de tamanho da página */
+  width: 176px;
+  height: 176px;
+}
+
 #profile h1 {
   font: var(--text-lg);
   color: var(--text-color-primary);
