@@ -6,7 +6,7 @@ Objetivo do Projeto
 
 O objetivo principal do Travelgram foi praticar e aprimorar as habilidades em CSS Flex, além de explorar outros conceitos importantes de desenvolvimento frontend. O projeto serviu como um exercício prático para:
 
-- Criar layouts responsivos e modernos utilizando CSS;
+- Criar layouts modernos utilizando CSS;
 
 - Posicionar e alinhar elementos de forma eficiente com CSS Flex;
 
