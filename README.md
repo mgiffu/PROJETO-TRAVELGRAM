@@ -1,8 +1,8 @@
-Travelgram - Projeto FrontEnd
+# Travelgram - Projeto FrontEnd
 
 Bem-vindo ao Travelgram, um projeto desenvolvido durante minha formação em FrontEnd na Rocketseat. Este projeto consiste em um perfil fictício de uma rede social dedicada a fotos e viagens, criado para aplicar e consolidar os conhecimentos adquiridos durante o curso.
 
-Objetivo do Projeto
+## Objetivo do Projeto
 
 O objetivo principal do Travelgram foi praticar e aprimorar as habilidades em CSS Flex, além de explorar outros conceitos importantes de desenvolvimento frontend. O projeto serviu como um exercício prático para:
 
@@ -16,13 +16,13 @@ O objetivo principal do Travelgram foi praticar e aprimorar as habilidades em CS
 
 Tecnologias e Conceitos Utilizados
 
-HTML5: 
+### HTML5 
 
 - Estruturação semântica do conteúdo.
 
-CSS3:
+### CSS3
 
-Flexbox: Para layout e alinhamento de elementos.
+ - Flexbox: Para layout e alinhamento de elementos.
 
 - Variáveis CSS: Para gerenciamento de cores e estilos.
 
@@ -34,7 +34,7 @@ Flexbox: Para layout e alinhamento de elementos.
 Contato
 Se você tiver alguma dúvida, sugestão ou feedback, não hesite em entrar em contato:
 
-GitHub: mgiffu
+GitHub: www.linkedin.com/in/murilo-giffu
 
 Email: murilogiffu89@gmail.com
 
